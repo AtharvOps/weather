@@ -196,7 +196,9 @@ This project is licensed under the **Apache-2.0 License**.
 
 ## 📬 Contact
 
-📧 Email: [adityaeo007@gmail.com](mailto:adityaeo007@gmail.com)
+📧 Email: adityanyo39@gmail.com <br>
+🔗 LinkedIn: https://www.linkedin.com/in/aditya-kumar23/<br>
+💻 GitHub: https://github.com/aditya-ai00
 
 ---
 
